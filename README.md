@@ -2,7 +2,7 @@ Anemia of iron deficiency treatment with oral iron
 ============================================
 A living systematic review
 
-Short url: http://
+Short url: https://openmetaanalysis.github.io/anemia/
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is or is not* effective. Heterogeneity of results as measured by I<sup>2</sup> was '[moderate](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at XX%. This review updates previously published meta-analysis(es).(citation[s] below)
 
@@ -37,15 +37,13 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1. Ammendolia C, Stuber KJ, Rok E, Rampersaud R, Kennedy CA, Pennick V, Steenstra IA, de Bruin LK, Furlan AD. Nonoperative treatment for lumbar spinal stenosis with neurogenic claudication. Cochrane Database Syst Rev. 2013 Aug 30;8:CD010712. doi: [10.1002/14651858.CD010712](http://dx.doi.org/10.1002/14651858.CD010712). PMID: [23996271](http://pubmed.gov/23996271).
+1. Tolkien Z, Stecher L, Mander AP, Pereira DI, Powell JJ. Ferrous sulfate supplementation causes significant gastrointestinal side-effects in adults: a systematic review and meta-analysis. PLoS One. 2015 Feb 20;10(2):e0117383. doi: [10.1371/journal.pone.0117383](http://dx.doi.org/10.1371/journal.pone.0117383). PMID: [25700159](http://pubmed.gov/25700159)
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-1. Friedly JL, Comstock BA, Turner JA, Heagerty PJ, Deyo RA, Sullivan SD, Bauer Z, Bresnahan BW, Avins AL, Nedeljkovic SS, Nerenz DR, Standaert C, Kessler L, Akuthota V, Annaswamy T, Chen A, Diehn F, Firtch W, Gerges FJ, Gilligan C,
-Goldberg H, Kennedy DJ, Mandel S, Tyburski M, Sanders W, Sibell D, Smuck M, Wasan A, Won L, Jarvik JG. A randomized trial of epidural glucocorticoid injections for spinal stenosis. N Engl J Med. 2014 Jul 3;371(1):11-21. doi: [10.1056/NEJMoa1313265](http://dx.doi.org/10.1056/NEJMoa1313265). PMID: [24988555](http://pubmed.gov/24988555).
+1. Jongkraijakra S, Doungngern T, Sripakdee W, Lekhakula A. A randomized controlled trial of thrice-weekly versus thrice-daily oral ferrous fumarate treatment in adult patients with iron-deficiency anemia. Ann Hematol. 2023 Jun;102(6):1333-1340. doi: [10.1007/s00277-023-05198-2](http://dx.doi.org/10.1007/s00277-023-05198-2). Epub 2023 Apr 3. PMID: [37010569](http://pubmed.gov/37010569).
 
 #### Trial(s) included in the review above
-1. Fukusaki M, Kobayashi I, Hara T, Sumikawa K. Symptoms of spinal stenosis do not improve after epidural steroid injection. Clin J Pain. 1998 Jun;14(2):148-51. PMID:[9647457](http://pubmed.gov/9647457).
 
 #### Trial(s) undergoing review
 None
