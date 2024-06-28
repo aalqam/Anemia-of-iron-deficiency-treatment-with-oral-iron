@@ -4,7 +4,7 @@ A living systematic review
 
 Short url: https://openmetaanalysis.github.io/anemia/
 
-**Clinical summary:** This meta-analysis suggests that allternate day oral iron versus daily dosing *is* effective in the treatment of iron deficiency anemia with lower incidence of gastrointestinal adverse drug reactions (ADRs). Heterogeneity of results as measured by I<sup>2</sup> was '[Moderate](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at 41%. This review updates previously published meta-analysis(es).(citation[s] below)
+**Clinical summary:** This meta-analysis suggests that alternate day oral iron versus daily dosing *is* effective in the treatment of iron deficiency anemia with lower incidence of gastrointestinal adverse drug reactions (ADRs). Heterogeneity of results as measured by I<sup>2</sup> was '[Moderate](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at 41%. This review updates previously published meta-analysis(es).(citation[s] below)
 <!---
 Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.
 
